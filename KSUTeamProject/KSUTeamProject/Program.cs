@@ -4,6 +4,10 @@ using System.Linq;
 using System.Windows.Forms;
 
 namespace KSUTeamProject {
+	public interface Needs {
+		void Sort(ref int[] input);
+	}
+
 	static class Program {
 		/// <summary>
 		/// Главная точка входа для приложения.

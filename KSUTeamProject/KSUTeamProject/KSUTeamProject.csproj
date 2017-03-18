@@ -44,6 +44,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Sort Methods\01-FastSort.cs" />
+    <Compile Include="Sort Methods\10-ModBubleSort.cs" />
+    <Compile Include="Sort Methods\11-ShakingSort.cs" />
+    <Compile Include="Sort Methods\12-BubleSort.cs" />
+    <Compile Include="Sort Methods\02-CountSort.cs" />
+    <Compile Include="Sort Methods\03-BrushSort.cs" />
+    <Compile Include="Sort Methods\04-PileSort.cs" />
+    <Compile Include="Sort Methods\05-MergeSort.cs" />
+    <Compile Include="Sort Methods\06-ShellsSort.cs" />
+    <Compile Include="Sort Methods\07-ChoosingSort.cs" />
+    <Compile Include="Sort Methods\08-InsertSort.cs" />
+    <Compile Include="Sort Methods\09-GnomeSort.cs" />
+    <Compile Include="Sort Methods\13-EvenOddSort.cs" />
+    <Compile Include="Sort Methods\14-FlagBubleSort.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
